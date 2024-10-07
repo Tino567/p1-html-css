@@ -1,6 +1,5 @@
 h1{
-   
-    color: blue;
+    color: rgb(0, 238, 255);
     font-size: 24px; 
     font-style: italic; 
     font-weight: bold;
@@ -16,7 +15,7 @@ h2{
 
 h3{
      font-size: 16px; 
-     color: teal; 
+     color: teal;
      font-weight: bold;
 
 }
@@ -32,3 +31,27 @@ a{
 
 }
 
+header{
+    width: 100vw;
+    height: 33vh;
+ background-image: url(./img/controller.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+
+}
+
+article{
+    border: 2px solid rgb(0, 255, 195);
+    border-radius: 30px;
+    border-style: dashed;
+    border-left: solid 5px rgb(255, 0, 255);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+  
