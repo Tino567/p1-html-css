@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    width: 100vw;
+    color: blue;
+}
+
+.nav > div{
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.logo{
+    width: 25vw;
+}
+
+.login{
+    width: 25vw;
+}
