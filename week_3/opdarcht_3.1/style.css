@@ -61,3 +61,29 @@ height: 100vh;
  color: white;
 font-size: large;
 }
+
+.background{
+  background-color: black;
+
+}
+
+.text{
+  color: white;
+}
+
+.title{
+  color: white;
+}
+
+.text2{
+  color: white;
+}
+
+.title2{
+  color: white;
+
+}
+
+.background2{
+  background-color: black;
+}
